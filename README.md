@@ -2,7 +2,12 @@
 ## Date: 
 
 ## AIM
+<<<<<<< HEAD
 To develop a Django application to manage an online food delivery platform like Zomato/Swiggy using Object Relational Mapping (ORM).
+=======
+To develop a Django Application to store and retrieve data from a E-Commerce Website Database for Amazon or Flipkart using Object Relational Mapping(ORM).
+
+>>>>>>> 49ab6c469618e41b64e073d177567e5a4b1c7ff0
 
 ## ENTITY RELATIONSHIP DIAGRAM
 
@@ -39,4 +44,4 @@ Include the screenshot of your admin page.
 
 
 ## RESULT
-Thus the program for creating a database using ORM hass been executed successfully
+Thus the program for creating E-commerce website database using ORM hass been executed successfully
