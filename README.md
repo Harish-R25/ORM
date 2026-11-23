@@ -23,8 +23,15 @@ Enter the code for admin.py and models.py
 Execute Django admin and create details for 10 books
 
 ## PROGRAM
+'''
+admin.py
 
+from django.contrib import admin
+from.models import Employee, EmployeeAdmin
+admin.site.register(Employee, EmployeeAdmin)
 
+models.py
+'''
 
 ## OUTPUT
 
