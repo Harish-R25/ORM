@@ -2,9 +2,6 @@
 ## Date: 
 
 ## AIM
-<<<<<<< HEAD
-To develop a Django application to manage an online food delivery platform like Zomato/Swiggy using Object Relational Mapping (ORM).
-=======
 To develop a Django Application to store and retrieve data from a E-Commerce Website Database for Amazon or Flipkart using Object Relational Mapping(ORM).
 
 >>>>>>> 49ab6c469618e41b64e073d177567e5a4b1c7ff0
@@ -28,15 +25,6 @@ Enter the code for admin.py and models.py
 Execute Django admin and create details for 10 books
 
 ## PROGRAM
-'''
-admin.py
-
-from django.contrib import admin
-from.models import Employee, EmployeeAdmin
-admin.site.register(Employee, EmployeeAdmin)
-
-models.py
-'''
 
 ## OUTPUT
 
