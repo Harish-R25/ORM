@@ -4,7 +4,6 @@
 ## AIM
 To develop a Django application to manage an online food delivery platform like Zomato/Swiggy using Object Relational Mapping (ORM).
 
-
 ## DESIGN STEPS
 
 ### STEP 1:
@@ -40,6 +39,7 @@ class Employee (models. Model):
 
 class EmployeeAdmin(admin.ModelAdmin):
     list_display=('eid', 'name', 'salary', 'age', 'email')
+
 '''
 
 
