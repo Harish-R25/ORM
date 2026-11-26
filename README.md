@@ -27,6 +27,7 @@ from.models import Employee, EmployeeAdmin
 admin.site.register(Employee, EmployeeAdmin)
 
 models.py
+
 from django.db import models
 from django.contrib import admin
 class Employee (models. Model):
