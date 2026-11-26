@@ -6,6 +6,5 @@ class Employee (models. Model):
     salary=models. IntegerField()
     age=models. IntegerField()
     email=models. EmailField()
-
 class EmployeeAdmin(admin.ModelAdmin):
     list_display=('eid', 'name', 'salary', 'age', 'email')
